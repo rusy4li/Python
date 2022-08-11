@@ -16,15 +16,6 @@
 
 -> Şu anlık 18 sosyal medya hesabı bulabiliyor!
 
-# Güncelleme Notları:
 
--> Social-Tool Büyük Update aldığı zamanlarda V2, V3, V4 şeklinde adı değişecektir
-
-# V2:
--> 20.01.2022
-
--> 10 Adet yeni sosyal medya sitesi eklendi
-
--> Not defterine kayıt etme özelliği eklendi
 
 
